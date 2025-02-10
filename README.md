@@ -15,6 +15,7 @@ Yo, moi c'est Octalink (il/lui). Je suis un développeur d'applications indépen
 
 ### Me connaitre  -  ⚡ 
 Membre de la communauté Furry depuis 2024 🏳️‍🌈
+
 Je parle:
 - Français
 - Anglais
